@@ -36,19 +36,37 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 
 ### Program : 
-DART studio screen shots for linear interpolation and DART studio screen shots for joint interpolation. 
-![1](https://user-images.githubusercontent.com/94226297/203059184-0447ae4b-8eb7-4736-9c1b-6ccf7d680a17.jpeg)
+DART studio screen shots for linear interpolation 
+
+
+
+
+
+
+
+
+
+DART studio screen shots for joint interpolation 
+
+
+![robo 1](https://user-images.githubusercontent.com/93427186/203103761-94280875-b602-46f9-bd87-dba32b132fc7.jpg)
+
+
+
+
 
 
 ### Robot movements 
-![2](https://user-images.githubusercontent.com/94226297/203059280-a1397958-489a-4477-b05c-b75bc0441304.jpeg)
+![robotics1new](https://user-images.githubusercontent.com/93427186/203104007-334b6309-11b0-472f-bb29-62de2cbb2858.jpg)
+
+![robotics2new](https://user-images.githubusercontent.com/93427186/203104022-8e16fa93-2c65-432a-91a1-eb17fc9a83cb.jpg)
 
 
-![3](https://user-images.githubusercontent.com/94226297/203059765-f0f9539b-4626-4ad4-bdc4-f47218e93844.jpeg)
-![4](https://user-images.githubusercontent.com/94226297/203059794-0ebbf0a7-074c-438a-9e0e-67954bcb87a9.jpeg)
-
-![5](https://user-images.githubusercontent.com/94226297/203059811-5f041aa5-7e4f-49e7-ac90-95bdda7b8730.jpeg)
+![robotics3new](https://user-images.githubusercontent.com/93427186/203104042-d50084dc-9625-42ac-8fe1-bcf1b799b0e3.jpg)
 
 
-### Result: 
+
+
+
+### Results:  
 Thus ,linear and joint interpolation of industrial manipulator and program is executed.
